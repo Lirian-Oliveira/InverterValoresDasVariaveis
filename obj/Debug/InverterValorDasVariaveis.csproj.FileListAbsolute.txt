@@ -1,0 +1,7 @@
+C:\Users\Lirian\source\repos\InverterValorDasVariaveis\bin\Debug\InverterValorDasVariaveis.exe.config
+C:\Users\Lirian\source\repos\InverterValorDasVariaveis\bin\Debug\InverterValorDasVariaveis.exe
+C:\Users\Lirian\source\repos\InverterValorDasVariaveis\bin\Debug\InverterValorDasVariaveis.pdb
+C:\Users\Lirian\source\repos\InverterValorDasVariaveis\obj\Debug\InverterValorDasVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Lirian\source\repos\InverterValorDasVariaveis\obj\Debug\InverterValorDasVariaveis.exe
+C:\Users\Lirian\source\repos\InverterValorDasVariaveis\obj\Debug\InverterValorDasVariaveis.pdb
+C:\Users\Lirian\source\repos\InverterValorDasVariaveis\obj\Debug\InverterValorDasVariaveis.csprojAssemblyReference.cache
